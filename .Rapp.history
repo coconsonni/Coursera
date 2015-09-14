@@ -1,0 +1,89 @@
+a <- available.packages()
+getwd
+getwd()
+getwd()
+x <- 1
+print(1)
+x
+x <- 1#
+print(x)
+getwd
+getwd()
+x <-
+1
+print(x)
+x
+x <- 5
+x
+print(x)
+x+4
+x <- y+1
+x+1
+x <- 1:20
+x
+x+1
+1L
+Inf
+1/0
+1/Inf
+2+2
+NaN
+0/0
+1+NaN
+attributes(1)
+x <- c(0.5, 0.6)
+x
+x <- c(1:20)
+x
+x <- vector("numeric", lenght = 10)
+x <- vector("numeric", lenght = "10")
+x <- vector("numeric", lenght = 0L)
+x <- vector("numeric", lenght = 0)
+x <- vector("numeric" , lenght = 0)
+x <- vector("numeric", lenght = 3)
+x
+x
+y <- c(1.7, "a")
+y
+y <- c(1.7 : a)
+x <- T:F
+x
+as.numeric(x)
+as.logical(x)
+x <- 1:7
+x
+as.logical(x)
+as.character(x)
+x <- list(1, "a", TRUE, 1 + 4i)
+x
+x+1
+x + list(1, "a", TRUE, 2)
+m <- matrix(nrow = 3, ncol = 7)
+m
+dim(m)
+attributes(m)
+function(m)
+m <- matrix(1:30, nrow = 3, ncol = 7)
+m
+m <- matrix (1:6, nrow = 3, ncol = 2)
+m
+x <- 1:10
+x
+dim(x) <- c(1, 10)
+x
+peso <- 20:30
+peso
+altezza <- 1.40:1.50
+altezza
+altezza 140:150
+altezza <- 140:150
+altezza
+cbind (peso, altezza)
+rbind (altezza, peso)
+table(peso)
+unclass(peso)
+as.nan(peso)
+is.nan(peso)
+is.na(peso)
+x <- (1:Inf)
+x
